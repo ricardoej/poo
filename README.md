@@ -2,7 +2,7 @@
 
 Códigos base para as aulas de POO
 
-## Table of Contents  
+## Conteúdo  
 [Atividades em aula](#em-aula)  
 [Atividade 1](#atividade-1)  
 
