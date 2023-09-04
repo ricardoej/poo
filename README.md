@@ -13,7 +13,7 @@ Códigos base para as aulas de POO
 Data de Entrega: 02/10/2023
 
 **Instruções:**
-- POde ser feito em grupo de 2 alunos ou individualmente
+- Pode ser feito em grupo de 2 alunos ou individualmente
 - Subir o código em um repositório do Github
 - Desenvolver a aplicação usando a linguagem Java
 - Enviar um email para <ricardoej@gmail> com:
