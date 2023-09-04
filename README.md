@@ -3,8 +3,8 @@
 Códigos base para as aulas de POO
 
 ## Conteúdo  
-[Atividades em aula](#em-aula)  
-[Atividade 1](#atividade-1)  
+[Atividades em aula (Data de Entrega: 02/10/2023)](#em-aula)  
+[Atividade 1 (Data de Entrega: 04/09/2023)](#atividade-1)  
 
 <a name="em-aula"/>
 
