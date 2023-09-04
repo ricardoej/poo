@@ -5,7 +5,6 @@ Códigos base para as aulas de POO
 ## Conteúdo
 
 [Formulário de Avaliação da Disciplina](#form-avaliacao)
-
 [Atividades em aula (Data de Entrega: 02/10/2023)](#em-aula)  
 [Atividade 1 (Data de Entrega: 04/09/2023)](#atividade-1)  
 
