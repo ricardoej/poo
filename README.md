@@ -7,6 +7,7 @@ Códigos base para as aulas de POO
 [Formulário de Avaliação da Disciplina/Professor](#form-avaliacao)  
 [Atividades em aula (Data de Entrega: 02/10/2023)](#em-aula)  
 [Atividade 1 (Data de Entrega: 04/09/2023)](#atividade-1)  
+[Material de Estudo](#material)  
 
 <a name="form-avaliacao"/>
 
@@ -40,3 +41,9 @@ Data de Entrega: 04/09/2023
 **Instruções:**
 
 Seguir as instruções em: <https://github.com/ricardoej/poo/tree/main/GeradorEstatisticasBrasileirao>
+
+<a name="material"/>
+
+## Material de Estudo
+
+Livro que eu pego exemplos: <https://github.com/free-educa/others-programming-books/blob/master/Orienta%C3%A7%C3%A3o%20a%20Objetos%20e%20SOLID%20para%20Ninjas%20Projetando%20classes%20flex%C3%ADveis%20-%20Casa%20do%20Codigo.pdf>
