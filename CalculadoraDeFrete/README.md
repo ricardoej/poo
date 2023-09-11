@@ -38,3 +38,4 @@ Você será avaliado com base nos seguintes critérios:
 - Funcionamento correto do programa de exemplo, que demonstra o uso da classe `CalculadoraFrete`.
 - Capacidade de criar instâncias da classe `CalculadoraFrete` e usar seus métodos corretamente.
 - Qualidade do código, incluindo boas práticas de nomenclatura e formatação.
+- Respeito aos princípios estudados.
