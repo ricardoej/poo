@@ -5,9 +5,34 @@ Códigos base para as aulas de POO
 ## Conteúdo
 
 [Formulário de Avaliação da Disciplina/Professor](#form-avaliacao)  
+[Formas de Avaliação](#forma-avaliacao)  
 [Atividades em aula (Data de Entrega: 02/10/2023)](#em-aula)  
 [Atividade 1 (Data de Entrega: 04/09/2023)](#atividade-1)  
+[Avaliação Prática (Data de Entrega: 25/09/2023)](#avaliacao-pratica)  
+[Atividade 2 (Data de Entrega: 09/10/2023)](#atividade-2)  
 [Material de Estudo](#material)  
+
+<a name="forma-avaliacao"/>
+
+## Formas de Avaliação
+
+Seguem as formas de avaliação e a pontuação de cada um delas com as datas dentrega:
+
+- Atividades em aula
+  - Pontuação: 25 pontos
+  - Data de entrega: 02/10/2023
+ 
+- Atividade 1
+  - Pontuação: 25 pontos
+  - Data de entrega: 04/09/2023
+ 
+- Avaliação Prática
+  - Pontuação: 25 pontos
+  - Data de entrega: 25/09/2023
+ 
+- Atividade 2
+  - Pontuação: 25 pontos
+  - Data de entrega: 09/10/2023
 
 <a name="form-avaliacao"/>
 
@@ -41,6 +66,26 @@ Data de Entrega: 04/09/2023
 **Instruções:**
 
 Seguir as instruções em: <https://github.com/ricardoej/poo/tree/main/GeradorEstatisticasBrasileirao>
+
+<a name="avaliacao-pratica"/>
+
+## Avaliação Prática
+
+Data de Entrega: 25/09/2023
+
+**Conteúdo:**
+
+Capítulos 1, 2, 3, 4, 5, 6 e 7 do livro abaixo.
+
+<a name="atividade-2"/>
+
+## Atividade 2
+
+Data de Entrega: 09/10/2023
+
+**Instruções:**
+
+Seguir as instruções em: EM BREVE
 
 <a name="material"/>
 
