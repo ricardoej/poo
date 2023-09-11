@@ -40,5 +40,5 @@ Você será avaliado com base nos seguintes critérios:
 
 - Implementação correta e completa das classes `Usuario`, `Notificacao`, `Email`, `SMS`, `Push` e `GerenciadorNotificacoes`.
 - Funcionamento correto do programa de exemplo, que demonstra o uso do módulo de notificações.
-- Respeito aos princípios de encapsulamento e Lei de Demeter, evitando acesso direto a atributos privados de outras classes.
+- Respeito aos princípios estudados.
 - Qualidade do código, incluindo boas práticas de nomenclatura e formatação.
