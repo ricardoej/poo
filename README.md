@@ -57,6 +57,7 @@ Data de Entrega: 02/10/2023
 1. **Central de Notificações:** https://github.com/ricardoej/poo/blob/main/CentralDeNotificacoes/README.md
 2. **Calculador de Frete:** https://github.com/ricardoej/poo/blob/main/CalculadoraDeFrete/README.md
 3. **Biblioteca:** https://github.com/ricardoej/poo/blob/main/Biblioteca/README.md
+4. **Exercício Teórico:** https://github.com/ricardoej/poo/blob/main/ExercicioTeorico/README.md
 
 <a name="atividade-1"/>
 
@@ -86,7 +87,7 @@ Data de Entrega: 09/10/2023
 
 **Instruções:**
 
-Seguir as instruções em: EM BREVE
+Seguir as instruções em: <https://github.com/ricardoej/poo/blob/main/RPGGame/README.md>
 
 <a name="material"/>
 
