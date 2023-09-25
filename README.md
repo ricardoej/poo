@@ -79,6 +79,8 @@ Data de Entrega: 25/09/2023
 
 Capítulos 1, 2, 3, 4, 5, 6 e 7 do livro abaixo.
 
+**Gabarito:** <https://www.gradepen.com/gabaritos.php>
+
 <a name="atividade-2"/>
 
 ## Atividade 2
